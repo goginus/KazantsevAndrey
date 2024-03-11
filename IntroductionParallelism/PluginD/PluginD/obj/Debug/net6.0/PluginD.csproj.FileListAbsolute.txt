@@ -1,0 +1,11 @@
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginD.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginD.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginD.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.csproj.AssemblyReference.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.csproj.CoreCompileInputs.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.csproj.CopyComplete
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\refint\PluginD.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\PluginD.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginD\PluginD\obj\Debug\net6.0\ref\PluginD.dll

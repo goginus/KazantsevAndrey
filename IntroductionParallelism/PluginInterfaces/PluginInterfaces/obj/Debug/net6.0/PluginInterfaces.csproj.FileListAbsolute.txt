@@ -1,0 +1,13 @@
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\bin\Debug\net6.0\PluginInterfaces.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\bin\Debug\net6.0\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\bin\Debug\net6.0\PluginInterfaces.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\PluginInterfaces.csproj.AssemblyReference.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\PluginInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\PluginInterfaces.csproj.CoreCompileInputs.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\refint\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\PluginInterfaces.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginInterfaces\PluginInterfaces\obj\Debug\net6.0\ref\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginInterfaces.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginInterfaces.pdb

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b33a9c-884b-4344-9131-4abaaaccf279" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IntroductionParallelism.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IntroductionParallelism.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IntroductionParallelism.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IntroductionParallelism.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.IntroductionParallelism.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/.idea/.idea.PluginA/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/.idea/.idea.PluginA/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/.idea/.idea.PluginA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/.idea/.idea.PluginA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/PluginA/.idea/.idea.PluginA.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/PluginA/.idea/.idea.PluginA.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/PluginA/.idea/.idea.PluginA.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginA/global.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginB/.idea/.idea.PluginB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PluginD/.idea/.idea.PluginD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PluginInterfaces/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PluginInterfaces/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PluginInterfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/IntroductionParallelism.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/IntroductionParallelism.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/IntroductionParallelism.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/IntroductionParallelism.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dXlfZP7yMUljG6laC4jBlF3TB3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b33a9c-884b-4344-9131-4abaaaccf279" name="Changes" comment="" />
+      <created>1710162408611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710162408611</updated>
+      <workItem from="1710162414428" duration="703000" />
+      <workItem from="1710164074776" duration="921000" />
+      <workItem from="1710170202169" duration="313000" />
+      <workItem from="1710170921380" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

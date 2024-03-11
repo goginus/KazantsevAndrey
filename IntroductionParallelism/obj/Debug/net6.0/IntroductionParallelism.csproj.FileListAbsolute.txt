@@ -1,0 +1,13 @@
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\IntroductionParallelism.exe
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\IntroductionParallelism.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\IntroductionParallelism.runtimeconfig.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\IntroductionParallelism.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\IntroductionParallelism.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.csproj.AssemblyReference.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.csproj.CoreCompileInputs.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\refint\IntroductionParallelism.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\IntroductionParallelism.genruntimeconfig.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\obj\Debug\net6.0\ref\IntroductionParallelism.dll

@@ -1,0 +1,16 @@
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.csproj.AssemblyReference.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.csproj.CoreCompileInputs.cache
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\bin\Debug\net6.0\PluginA.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\bin\Debug\net6.0\PluginA.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\bin\Debug\net6.0\PluginA.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\bin\Debug\net6.0\PluginInterfaces.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\bin\Debug\net6.0\PluginInterfaces.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.csproj.CopyComplete
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\refint\PluginA.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\PluginA.pdb
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\PluginA\PluginA\obj\Debug\net6.0\ref\PluginA.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginA.deps.json
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginA.dll
+C:\HomeWork\KazantsevAndrey\IntroductionParallelism\Plugins\net6.0\PluginA.pdb
