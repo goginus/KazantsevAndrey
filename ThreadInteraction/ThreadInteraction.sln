@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadInteraction", "ThreadInteraction.csproj", "{4525F98C-3985-4F0F-A4B2-7353190599F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadInteractionTests", "ThreadInteractionTests\ThreadInteractionTests.csproj", "{F599CB20-A876-4E37-8885-0BD5AC091908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4525F98C-3985-4F0F-A4B2-7353190599F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525F98C-3985-4F0F-A4B2-7353190599F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525F98C-3985-4F0F-A4B2-7353190599F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525F98C-3985-4F0F-A4B2-7353190599F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F599CB20-A876-4E37-8885-0BD5AC091908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F599CB20-A876-4E37-8885-0BD5AC091908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F599CB20-A876-4E37-8885-0BD5AC091908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F599CB20-A876-4E37-8885-0BD5AC091908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
