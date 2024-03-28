@@ -64,6 +64,7 @@ namespace SpaceBattleCommandExecutor
             if (CommandExecutor.GlobalStopRequested) return;
             Console.WriteLine("[Оружие#4] [Этап#2] Идёт наведение магнитного потока");
             Thread.Sleep(12000);
+            throw new Exception("Ошибка в работе магнитрона");
             if (CommandExecutor.GlobalStopRequested) return;
             Console.WriteLine("[Оружие#4] [Этап#3] Запуск магнитной волны");
             Thread.Sleep(24000);
@@ -86,7 +87,6 @@ namespace SpaceBattleCommandExecutor
         }
     }
     
-    // Реализуйте остальные команды по аналогии
 
     public class CommandExecutor
     {
@@ -98,13 +98,7 @@ namespace SpaceBattleCommandExecutor
 
         private readonly object _lock = new object();
         public static bool GlobalStopRequested = false;
-
-        public void WaitForCommandsCompletion()
-        {
-            Console.WriteLine("Ожидание завершения всех команд...");
-            commandsCompleted.Wait();
-            Console.WriteLine("Все команды завершены");
-        }
+        
 
         private void OnAllCommandsCompleted()
         {
@@ -213,7 +207,7 @@ namespace SpaceBattleCommandExecutor
             executor.AddCommand(new PlasmaFireCommand());
             executor.AddCommand(new BioBlasterFireCommand());
             executor.Start();
-            Thread.Sleep(2000);
+            Thread.Sleep(4000);
             executor.Stop(true);
             Thread.Sleep(1000);
             

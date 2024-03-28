@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02318950-ad4a-4464-8bc8-1b8609463256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ThreadInteraction/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/ThreadInteractionTests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/ThreadInteractionTests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/ThreadInteractionTests.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/ThreadInteractionTests.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadInteractionTests/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/ThreadInteraction.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/ThreadInteraction.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/ThreadInteraction.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThreadInteraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ThreadInteraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/ThreadInteraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/ThreadInteraction.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/ThreadInteraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/ThreadInteraction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ThreadInteraction.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/ThreadInteraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/ThreadInteraction.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/ThreadInteraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/ThreadInteraction.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +71,27 @@
       <updated>1711627994180</updated>
       <workItem from="1711627994484" duration="4192000" />
       <workItem from="1711632388813" duration="474000" />
-      <workItem from="1711632930863" duration="977000" />
+      <workItem from="1711632930863" duration="2612000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="147" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="73" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 65% 75/216" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
